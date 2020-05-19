@@ -5,9 +5,10 @@ Clear Sky only shows 46 hours ahead.
 Instead, use wunderground.
 
 Useful:
-https://www.shanelynn.ie/analysis-of-weather-data-using-pandas-python-and-seaborn/
-https://www.crummy.com/software/BeautifulSoup/bs4/doc/
-https://www.cleardarksky.com/others/BenSugerman/star.htm
+- https://www.shanelynn.ie/analysis-of-weather-data-using-pandas-python-and-seaborn/
+- https://www.crummy.com/software/BeautifulSoup/bs4/doc/
+- https://www.cleardarksky.com/others/BenSugerman/star.htm
+- http://jonathansoma.com/lede/foundations/classes/friday%20sessions/advanced-scraping-form-submissions-completed/
 
 
 # CONDITIONS
