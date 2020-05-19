@@ -1,6 +1,15 @@
 # sky-obs-cond
 Figure out if conditions are acceptable for observations using Sonoma Clear Sky
 
+Clear Sky only shows 46 hours ahead.
+Instead, use wunderground.
+
+
+Useful:
+https://www.shanelynn.ie/analysis-of-weather-data-using-pandas-python-and-seaborn/
+https://www.crummy.com/software/BeautifulSoup/bs4/doc/
+https://www.cleardarksky.com/others/BenSugerman/star.htm
+
 
 Conditions
 _____
