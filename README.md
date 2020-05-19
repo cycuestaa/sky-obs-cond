@@ -2,8 +2,9 @@
 Figure out if conditions are acceptable for observations using Sonoma Clear Sky
 
 
-#Conditions
+Conditions
 _____
+Note: "Visiblity of galaxies and nebulae in telescopes, or the milky way with the un-aided eye, requires good transparency but isn't much affected by seeing. All astronomical observations require a low percentage of cloud cover or clear skies. Humidity, Wind, and Temperature won't determine if you can observe, but they might affect how comfortable you are or how much your telescope will shake or dew up."
 
 clouds: 
 - cannot be more than 30%
